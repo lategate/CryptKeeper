@@ -18,7 +18,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.PBEKeySpec;
 import javax.crypto.spec.SecretKeySpec;
 /**
- * @author Team Loading...
+ * @author Ryan Boken
  * Date: 7/23/2017
  */
 public class CryptKeeper {
