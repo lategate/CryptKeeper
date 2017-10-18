@@ -5,7 +5,7 @@ import java.security.MessageDigest;
 import java.util.*;
 
 /**
- * @author Team Loading...
+ * @author Ryan Boken
  * Date: 7/23/2017
  */
 public class CryptPersist implements Serializable {
