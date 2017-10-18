@@ -6,7 +6,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 /**
- * @author Team Loading...
+ * @author Ryan Boken, Austin Watkins
  * Date: 7/30/2017
  */
 public class CryptUtil {
