@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by u1068832 on 7/20/2017.
+ * @author Ryan Boken, Tyler Linquata, Dillon Schow
  */
 public class CryptGui extends JFrame {
 
